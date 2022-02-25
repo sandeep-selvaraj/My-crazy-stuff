@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>This is the Title!</title>
+    </head>
+    <body>
+        <!-- ANYTHING HERE IS A COMMENT -->
+        <h1>Forms, labels and Actions</h1>
+        <form action="https://www.google.com" method="get">
+            <p>Enter Text and take me to Google</p>
+            <input type='text' name='userinput' value="">
+            <input type="submit" name="" value="Submit"> 
+        </form>
+
+        <h3>Bad way of labelling</h3>
+        <form>
+            <label>
+                Enter Text:
+                <input type='text' name='userinput' value="">
+            </label>            
+        </form>
+
+        <h3>Good way of labelling</h3>
+        <form>
+            <label for="userinput">Enter Text:</label>
+            <input id="userinput" type='text' name='' value="Block 1">
+        </form>
+        <form>
+            <label for="userinput">Enter Text:</label>
+            <input id="userinput" type='text' name='' placeholder="Placeholder tag" required>
+            <input type="submit" name="" value="Submit">
+
+        </form>
+        
+    </body>
+</html>
