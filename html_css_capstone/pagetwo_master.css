@@ -1,0 +1,21 @@
+body{
+    background-color: #2a3859;
+    border-left: 50px solid #04c2cc;
+    border-right: 50px solid #04c2cc;
+    border-bottom: 40px solid #04c2cc;;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-bottom: 5%;
+}
+
+#top{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+#top_two{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
