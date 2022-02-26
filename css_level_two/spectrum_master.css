@@ -1,0 +1,12 @@
+#top {
+    font-family: 'KaushanScriptRegular';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+ }
+
+#one{
+     background-color: #71c3f0;
+     width: 125px;
+     height: 300px;
+ }
