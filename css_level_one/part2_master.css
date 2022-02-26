@@ -1,0 +1,22 @@
+
+body{
+    /* background-color: silver; */
+    background: url(https://i.guim.co.uk/img/media/a168c363c22e66edd65ebb76b167058fca2ed47a/0_189_3466_2080/master/3466.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=85b68f76240cd557ef5fc25b218f4df1);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: gold;
+    border-color: blue;
+    border-width: 3px;
+    border-style: double;
+}
+
+p{
+    color:white
+}
+
+span{
+    background: red;
+    color: black;
+}

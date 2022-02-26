@@ -1,0 +1,47 @@
+body{
+    background-color:#a1cbd6;
+}
+h1{
+    border: 2px solid black;
+}
+
+h2{
+    color:rgb(149, 20, 179);
+}
+
+#first{
+    color: rgb(149, 20, 179);
+    text-decoration: overline;
+    
+}
+
+#h2{
+    background-color: #f5f7a8;
+}
+
+.feedback{
+    border: 4px dashed #f5f7a8;
+    background-color: blue;
+}
+
+#box{
+    border: 2px thick red;
+}
+
+input{
+    border: 2px solid red;
+}
+
+#textblock{
+    border: 5px solid grey;
+    width: 800px;
+    height: 400px;
+}
+
+a{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}
