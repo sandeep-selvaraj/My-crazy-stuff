@@ -4,6 +4,7 @@ var pl1 = prompt('Enter player 1 name: ');
 var pl2 = prompt('Enter player 2 name: ');
 
 // console.log(pl1+' and '+pl2+' are logged in!');
+// check
 
 $('h3').text(pl1+': Its your Turn') 
 
